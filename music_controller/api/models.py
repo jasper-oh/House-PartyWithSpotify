@@ -1,3 +1,9 @@
+# 모델을 객체화 해서 다룬다.
+# 모델 = 데이터베이스의 테이블
+# 모델의 필드(변수) = 테이블의 컬럼
+# 인스턴스 = 테이블의 레코드
+# 필드의 값(인스턴스의 필드값) = 레코드의 컬럼 데이터값
+
 from django.db import models
 import string
 import random
