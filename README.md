@@ -2,5 +2,6 @@
 
 simply web app with voting system with skipping aweful music.
 
-> Frontend with reactJS
-> Backend with django Framework
+> 😀 Frontend with reactJS
+
+> 😀 Backend with django Framework
