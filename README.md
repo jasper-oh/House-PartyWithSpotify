@@ -1,10 +1,13 @@
-# React, Django Tutorial
 
-# Music Controller named with HouseParty
+# HouseParty app with spotify api
 
-😀 frontend with react;
-😀 backend with django;
+simply web app with voting system with skipping aweful music.
+
+> 😀 Frontend with reactJS
+
+> 😀 Backend with django Framework
 
 ### - API with spotify connection
 
 ### - running program with npm &&
+
